@@ -1,0 +1,11 @@
+package assessment;
+
+public class Task1 {
+
+	public static void main(String[] args) {
+		int amount = Integer.parseInt(args[0]);
+		##Point of merge
+	}
+}
+
+
